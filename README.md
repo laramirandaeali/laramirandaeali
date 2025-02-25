@@ -6,10 +6,10 @@
   ##
 
 <a href="https://github.com/laramirandaeali/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=laramirandaeali&show_icons=true&theme=dracula&bg_color=00000000&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=laramirandaeali&show_icons=true&theme=dracula&bg_color=00000000&rank_icon=github" />
 </a>
 <a href="https://github.com/laramirandaeali/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laramirandaeali&layout=compact&theme=dracula&bg_color=00000000" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laramirandaeali&layout=compact&theme=dracula&bg_color=00000000" />
 </a>
 
 ##
